@@ -1,165 +1,170 @@
+<!-- SKY BLUE × GOLD | GitHub profile README for github.com/ngdev3 -->
+<!-- Create a PUBLIC repository named ngdev3 and save this file as README.md. -->
+
 <div align="center">
 
-# Hi, I'm Rajat Gupta 👋
+<img width="100%" alt="Sky blue gradient welcome banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,45:38BDF8,100:BAE6FD&height=210&section=header&text=RAJAT%20GUPTA&fontSize=49&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Tech%20Entrepreneur%20%E2%80%A2%20Product%20Builder&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-### Software Engineer · Tech Entrepreneur · Full-Stack Product Builder
+<a href="https://github.com/ngdev3"><img src="https://img.shields.io/badge/GITHUB-@ngdev3-0B2545?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://dailycashentry.com/"><img src="https://img.shields.io/badge/FLAGSHIP-DAILY%20CASH%20ENTRY-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Daily Cash Entry"/></a>
+<a href="https://www.youtube.com/channel/UCuyo4pIrsggDjunLhwnMyMw"><img src="https://img.shields.io/badge/YOUTUBE-TECHNICAL%20LIBRARY-D4A017?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
-**From farm operations to software architecture — I build technology around real problems.**
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ngdev3-111827?style=for-the-badge&logo=github)](https://github.com/ngdev3)
-[![Daily Cash Entry](https://img.shields.io/badge/Flagship-Daily_Cash_Entry-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dailycashentry.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-Technical_Library-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuyo4pIrsggDjunLhwnMyMw)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=1100&color=0284C7&center=true&vCenter=true&width=760&lines=From+real-world+business+problems+to+digital+solutions;11%2B+years+building+software+and+products;Engineering+%C3%97+Entrepreneurship+%C3%97+Innovation;Build+with+purpose.+Keep+improving." alt="Animated introduction"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=ngdev3&label=Profile%20views&color=0284c7&style=flat-square)
+<br/>
+
+<img src="https://img.shields.io/badge/11%2B%20YEARS-SOFTWARE%20EXPERIENCE-D4A017?style=flat-square&labelColor=FFF7E0" alt="11+ years"/>
+<img src="https://img.shields.io/badge/INDIA-BASED-0284C7?style=flat-square&labelColor=E0F2FE" alt="Based in India"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20MOBILE%20%7C%20ERP-D4A017?style=flat-square&labelColor=FFF7E0" alt="Focus"/>
+<img src="https://komarev.com/ghpvc/?username=ngdev3&label=PROFILE%20VIEWS&color=0284C7&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 The person behind the code
+## 🩵 About me
 
-I'm a software engineer and entrepreneur based in India, with **11+ years of software development experience** and hands-on involvement in agricultural and industrial businesses.
+> **I don't just write code — I work with real businesses, understand their challenges, and build practical technology around them.**
 
-I work at the intersection of **software engineering, business operations, and product development**. Building accounting systems, mobile applications, and automation tools is especially meaningful when you've experienced the operational challenges they're meant to solve.
+I'm **Rajat Gupta**, a software engineer, product builder, and entrepreneur based in India. My experience connects **full-stack software development** with **agricultural and industrial business operations**.
 
-- 🧩 **I build:** full-stack platforms, mobile apps, ERP systems, and practical productivity tools.
-- 🏭 **I operate in:** rice milling, agricultural supply chains, and cold storage.
-- 🤖 **I'm exploring:** AI-assisted engineering, automation, cross-device workflows, and security.
-- 🎓 **My background:** B.Tech in Computer Science Engineering and an LL.B.
-- 🎯 **My focus:** useful products, clean user experiences, and reliable systems.
+- 💻 **11+ years** of software development experience
+- 🚀 Building web platforms, mobile applications, accounting tools, and ERP workflows
+- 🌾 Involved in **rice milling and cold-storage businesses**
+- 🤖 Exploring AI-assisted development, automation, and cross-device experiences
+- ⚖️ Educational background in **Computer Science Engineering and Law**
+- 🎯 Interested in simple, reliable products with thoughtful user experiences
 
-> **My approach:** Understand the real problem. Design the simplest useful solution. Keep improving it.
+<div align="center">
 
-## 🚀 Products & projects
+<img src="https://img.shields.io/badge/ENGINEER-BUILD%20THE%20SYSTEM-0284C7?style=for-the-badge&labelColor=0B2545" alt="Engineer"/>
+<img src="https://img.shields.io/badge/ENTREPRENEUR-UNDERSTAND%20THE%20PROBLEM-D4A017?style=for-the-badge&labelColor=0B2545" alt="Entrepreneur"/>
+<img src="https://img.shields.io/badge/MAKER-SHIP%20THE%20SOLUTION-38BDF8?style=for-the-badge&labelColor=0B2545" alt="Maker"/>
 
-A selection of products and projects I'm building or developing. **Project maturity varies; some are works in progress.**
+</div>
 
-| Project | What it's about | Focus |
-|:--|:--|:--|
-| 💰 **[Daily Cash Entry](https://dailycashentry.com/)** | Digital cashbook, party ledgers, transaction records, reporting, and business workflows | Accounting · Mobile · Web |
-| ☁️ **[MyClipCloud](https://myclipcloud.com/)** | Cross-device cloud clipboard and content synchronization | Productivity · Sync |
-| 📱 **[AndroidDrop](https://androiddrop.com/)** | Nearby-device discovery and file-transfer experience | Android · Connectivity |
-| 🔗 **[ShortURL7](https://shorturl7.com/)** | Short links, custom aliases, and link-management analytics | Web Tools · Analytics |
-| ⚡ **[MySpeedCheck](https://myspeedcheck.in/)** | Interactive internet speed testing and visual feedback | Network Tools · UX |
-| 🖼️ **[Online Image Editor Free](https://onlineimageeditorfree.com/)** | Accessible browser-based image editing | Creative Tools · Web |
-| 🧾 **ERP & Business Automation** | Operational software for accounting, inventory, reporting, and workflows | ERP · MySQL · PHP |
+## ✨ Featured digital products
 
-<details>
-<summary><b>🔬 What I'm exploring next</b></summary>
+*These are products and projects I'm developing or improving; features and availability vary.*
 
-- AI-assisted development and workflow automation
-- Local-network keyboard and mouse sharing
-- Cross-device productivity and synchronization
-- Practical cybersecurity and software architecture
-- SEO, answer-engine optimization, and useful web tools
+| | Project | What I'm building |
+|:--:|:--|:--|
+| 💰 | **[Daily Cash Entry](https://dailycashentry.com/)** | Digital cashbook, party ledgers, accounting workflows, and business reporting |
+| ☁️ | **[MyClipCloud](https://myclipcloud.com/)** | Cross-device cloud clipboard and content synchronization |
+| 📱 | **[AndroidDrop](https://androiddrop.com/)** | Nearby-device discovery and file-sharing tools |
+| 🔗 | **[ShortURL7](https://shorturl7.com/)** | Short links, custom aliases, and link analytics |
+| ⚡ | **[MySpeedCheck](https://myspeedcheck.in/)** | Interactive internet speed testing and visual feedback |
+| 🖼️ | **[Online Image Editor Free](https://onlineimageeditorfree.com/)** | Accessible browser-based image editing tools |
+| 🧾 | **ERP & Business Automation** | Inventory, reporting, accounting, and operational systems |
 
-</details>
+<div align="center">
 
-## 🏢 Beyond software: real-world business experience
+<a href="https://dailycashentry.com/"><img src="https://img.shields.io/badge/EXPLORE-FLAGSHIP%20PRODUCT-D4A017?style=for-the-badge&labelColor=0B2545&logo=googlechrome&logoColor=white" alt="Explore flagship product"/></a>
+<a href="https://github.com/ngdev3?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-GITHUB%20REPOSITORIES-0284C7?style=for-the-badge&labelColor=0B2545&logo=github&logoColor=white" alt="Explore repositories"/></a>
+
+</div>
+
+## 🏭 Beyond code: business & industry
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌾 CR Industries
+**Rice milling & agricultural operations**
 
-Rice milling and agricultural operations.
-
-My experience here informs how I think about inventory, financial workflows, operational reliability, and the realities of running a business.
+Hands-on business experience informs how I approach inventory, financial processes, operational reporting, and software usability.
 
 </td>
 <td width="50%" valign="top">
 
 ### ❄️ Kisan Cold Storage
+**Cold storage · Shahabad, Hardoi, Uttar Pradesh**
 
-Cold-storage operations in **Shahabad, Hardoi, Uttar Pradesh**.
-
-Approximate facility capacity: **150,000 bags**. The business offers a firsthand perspective on agricultural logistics, stock tracking, and operational processes.
+Approximate storage capacity: **150,000 bags**. Experience in agricultural storage, stock management, logistics, and day-to-day operations.
 
 </td>
 </tr>
 </table>
 
-### 🌱 From farm to framework
+> 🌱 **From farm to framework:** My industrial experience helps me see the operational problems behind the requirements — not just the code behind the screens.
 
-**The interesting connection:** I don't only develop software for business use cases — I also work with businesses that face those use cases every day. That perspective shapes the products I choose to build.
+## 🛠️ My technology toolkit
 
-## 🛠️ Technologies I work with
+### 🌤️ Frontend & experience
+![Angular](https://img.shields.io/badge/Angular-0284C7?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0284C7?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4A017?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0EA5E9?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0284C7?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css&logoColor=white)
 
-**Languages & frontend**
+### 🥇 Backend, mobile & data
+![PHP](https://img.shields.io/badge/PHP-D4A017?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-D4A017?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0284C7?style=for-the-badge&logo=mysql&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-38BDF8?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-0284C7?style=for-the-badge&logo=capacitor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-D4A017?style=for-the-badge&logo=firebase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-0284C7?style=for-the-badge)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend, mobile & data**
-
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
-
-**Tools & infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+### 🔧 Tools & infrastructure
+![Git](https://img.shields.io/badge/Git-0284C7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0B2545?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-0284C7?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-D4A017?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <details>
-<summary><b>📚 Additional technologies featured in my previous profile</b></summary>
+<summary><b>🔍 What I'm learning and exploring</b></summary>
 
-My earlier README also listed C++, Azure, Google Cloud, React, Vue, Flutter, Laravel, Node.js, Express, FastAPI, MongoDB, PostgreSQL alternatives, and other frameworks and tools. I have intentionally kept the main badges focused on the technologies most representative of my current work rather than claiming equal proficiency in every listed technology.
+- AI-assisted engineering and intelligent workflows
+- Cross-device clipboard and local-network sharing
+- Software security and architecture
+- Search visibility: SEO, AEO, and GEO
+- Performance, accessibility, and mobile-first interfaces
 
 </details>
-
-## ⚡ A few facts about me
-
-- 💻 I move between **code, product design, and business operations**.
-- 🌾 Working in agriculture gives me a different perspective on digital transformation.
-- 📲 I enjoy building experiences that work across web and mobile.
-- ⚖️ My education combines **computer science and law**.
-- 🔧 I care about the less glamorous parts of software too: accounting accuracy, access control, reliability, and performance.
-- 🌍 I want to build practical tools that can be useful far beyond my local market.
 
 ## 📊 GitHub activity
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngdev3&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngdev3&show_icons=true&hide_border=true&bg_color=0B2545&title_color=F4C95D&text_color=E0F2FE&icon_color=38BDF8&rank_icon=github" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngdev3&layout=compact&hide_border=true&bg_color=0B2545&title_color=F4C95D&text_color=E0F2FE" alt="Top languages"/>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngdev3&layout=compact&hide_border=true&theme=transparent)
+<br/>
 
-![GitHub streak](https://streak-stats.demolab.com?user=ngdev3&theme=transparent&hide_border=true)
+<img width="65%" src="https://streak-stats.demolab.com?user=ngdev3&hide_border=true&background=0B2545&ring=F4C95D&fire=F4C95D&currStreakLabel=38BDF8&sideLabels=E0F2FE&dates=BAE6FD&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
 
 </div>
 
-<sub>Note: Third-party stats cards may occasionally be unavailable, and private repository activity may not be fully reflected.</sub>
+<sub>Statistics are generated by third-party services and may not reflect private work. Cards depend on those services being available.</sub>
 
-## 🤝 Connect & collaborate
+## ⚡ A few interesting facts
 
-I'm interested in practical software products, developer tools, business automation, and thoughtful technical collaborations.
+- 🧠 I enjoy combining **engineering, business, and product strategy**.
+- 🏗️ I understand software requirements from both the **developer** and **business operator** sides.
+- ⚖️ My education spans **B.Tech (Computer Science)** and **LL.B.**
+- 📲 I build for the **web and mobile**, with an interest in seamless cross-device experiences.
+- 🌾 Agriculture and industrial operations influence the practical tools I choose to develop.
+- 🎥 I also enjoy sharing and exploring technology through **Technical Library**.
 
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-111827?style=for-the-badge&logo=github)](https://github.com/ngdev3)
-[![YouTube](https://img.shields.io/badge/Technical_Library-DC2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuyo4pIrsggDjunLhwnMyMw)
-[![Website](https://img.shields.io/badge/Daily_Cash_Entry-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dailycashentry.com/)
-
-<!-- Add verified LinkedIn, email, and other social URLs here when ready. -->
-
----
+## 🤝 Let's connect
 
 <div align="center">
 
-### Build with purpose. Solve with curiosity. Keep shipping. 🚀
+<a href="https://github.com/ngdev3"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20WORK-0B2545?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.youtube.com/channel/UCuyo4pIrsggDjunLhwnMyMw"><img src="https://img.shields.io/badge/YOUTUBE-TECHNICAL%20LIBRARY-D4A017?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://dailycashentry.com/"><img src="https://img.shields.io/badge/WEBSITE-DAILY%20CASH%20ENTRY-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
-*Thanks for stopping by!*
+<!-- Add your verified LinkedIn, X, Instagram, and professional email URLs here. -->
+
+### **Build with purpose. Solve with curiosity. Keep shipping.** ✨
+
+<img width="100%" alt="Sky blue footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0284C7&height=115&section=footer"/>
 
 </div>
