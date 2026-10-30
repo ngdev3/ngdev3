@@ -1,18 +1,165 @@
-# 💫 About Me:
-# Hey, I'm Rajat Gupta! 👋<br><br>### 🚀 Software Engineer | Tech Entrepreneur | Business Owner | Full-Stack Developer<br><br>**I don't just write code — I build businesses, solve real-world problems, and turn ideas into digital products.**<br><br>💻 11+ Years in Software Development  <br>🏢 Entrepreneur & Industrial Business Owner  <br>⚡ Full-Stack Web & Mobile Application Developer  <br>🤖 AI, Automation & Digital Product Enthusiast  <br>🌍 Based in India 🇮🇳<br><br>---<br><br>### 👨‍💻 A Little About Me<br><br>I'm a software engineer, entrepreneur, and business owner who enjoys connecting technology with real-world business challenges.<br><br>My journey goes beyond programming. From building scalable applications to managing industrial businesses, I combine technical knowledge, operational experience, and entrepreneurial thinking.<br><br>I believe the best software is created when developers understand the problems businesses face every day.<br><br>**My philosophy:** Build smart. Solve real problems. Keep innovating.<br><br>### 🚀 What I'm Currently Building<br><br>**💰 [Daily Cash Entry](https://dailycashentry.com/)**<br><br>A digital accounting and cash management platform designed to simplify everyday business transactions, party ledgers, financial records, and reporting.<br><br>**☁️ [MyClipCloud](https://myclipcloud.com/)**<br><br>A cross-device cloud clipboard project focused on making copying, saving, and sharing content between devices easier.<br><br>**📱 [AndroidDrop](https://androiddrop.com/)**<br><br>A nearby-device discovery and file-sharing project designed to simplify file transfers.<br><br>**🔗 [ShortURL7](https://shorturl7.com/)**<br><br>A URL-shortening platform focused on custom links, usability, and link analytics.<br><br>**⚡ [MySpeedCheck](https://myspeedcheck.in/)**<br><br>An internet speed-testing project with interactive visualizations and real-time performance feedback.<br><br>**🖼️ [Online Image Editor Free](https://onlineimageeditorfree.com/)**<br><br>A browser-based image editing project focused on accessible, easy-to-use image tools.<br><br>*Some projects are under active development or ongoing improvement.*<br><br>### 🏢 Beyond the Code — My Business World<br><br>Technology is only one part of my professional journey.<br><br>**🌾 CR Industries**<br><br>Involved in the agricultural and rice-milling industry, where operational efficiency, financial management, and practical business technology matter every day.<br><br>**❄️ Kisan Cold Storage**<br><br>A cold-storage business based in Shahabad, Hardoi, Uttar Pradesh, with a storage capacity of approximately **150,000 bags**.<br><br>Working with agricultural businesses gives me firsthand insight into inventory management, financial accounting, supply chains, and business automation.<br><br>**💡 What makes my journey different?**<br><br>I experience business problems firsthand — and then use my software engineering skills to design solutions for them.<br><br>### 🛠️ My Technology Stack<br><br>**Frontend:** Angular, Ionic, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind CSS<br><br>**Backend:** PHP, CodeIgniter 3/4, REST APIs<br><br>**Database:** MySQL<br><br>**Mobile:** Ionic, Capacitor, Android<br><br>**Tools & Infrastructure:** Git, GitHub, Docker, Firebase, Hostinger, Android Studio<br><br>**Currently Exploring:** AI-assisted development, automation, cross-device synchronization, cybersecurity, and system architecture<br><br>### ⚡ Interesting Facts About Me<br><br>- 👨‍💻 I have more than a decade of experience developing software.<br>- 🌾 I work with agricultural and industrial businesses while building modern technology products.<br>- ❄️ I understand cold-storage and rice-mill operations from a business perspective, not just a software perspective.<br>- 📱 I enjoy creating both mobile applications and web platforms.<br>- 🧠 I'm interested in AI-assisted software development and intelligent automation.<br>- ⚖️ My educational background includes Computer Science Engineering and Law.<br>- 🔧 I enjoy building practical tools that solve everyday problems.<br>- 🚀 My long-term goal is to build useful digital products for people and businesses worldwide.<br><br>### 🎯 My Mission<br><br>To bridge the gap between traditional businesses and modern technology by creating simple, scalable, and meaningful digital solutions.<br><br>### 🤝 Let's Connect<br><br>🌐 GitHub: [github.com/ngdev3](https://github.com/ngdev3)<br><br>💰 Product: [dailycashentry.com](https://dailycashentry.com/)<br><br>**"From writing code to running businesses — I believe innovation begins with understanding real problems."** 🚀
+<div align="center">
 
+# Hi, I'm Rajat Gupta 👋
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ngdev3&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ngdev3&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ngdev3&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Software Engineer · Tech Entrepreneur · Full-Stack Product Builder
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**From farm operations to software architecture — I build technology around real problems.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ngdev3-111827?style=for-the-badge&logo=github)](https://github.com/ngdev3)
+[![Daily Cash Entry](https://img.shields.io/badge/Flagship-Daily_Cash_Entry-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dailycashentry.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-Technical_Library-dc2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuyo4pIrsggDjunLhwnMyMw)
+
+![Profile views](https://komarev.com/ghpvc/?username=ngdev3&label=Profile%20views&color=0284c7&style=flat-square)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ngdev3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 The person behind the code
+
+I'm a software engineer and entrepreneur based in India, with **11+ years of software development experience** and hands-on involvement in agricultural and industrial businesses.
+
+I work at the intersection of **software engineering, business operations, and product development**. Building accounting systems, mobile applications, and automation tools is especially meaningful when you've experienced the operational challenges they're meant to solve.
+
+- 🧩 **I build:** full-stack platforms, mobile apps, ERP systems, and practical productivity tools.
+- 🏭 **I operate in:** rice milling, agricultural supply chains, and cold storage.
+- 🤖 **I'm exploring:** AI-assisted engineering, automation, cross-device workflows, and security.
+- 🎓 **My background:** B.Tech in Computer Science Engineering and an LL.B.
+- 🎯 **My focus:** useful products, clean user experiences, and reliable systems.
+
+> **My approach:** Understand the real problem. Design the simplest useful solution. Keep improving it.
+
+## 🚀 Products & projects
+
+A selection of products and projects I'm building or developing. **Project maturity varies; some are works in progress.**
+
+| Project | What it's about | Focus |
+|:--|:--|:--|
+| 💰 **[Daily Cash Entry](https://dailycashentry.com/)** | Digital cashbook, party ledgers, transaction records, reporting, and business workflows | Accounting · Mobile · Web |
+| ☁️ **[MyClipCloud](https://myclipcloud.com/)** | Cross-device cloud clipboard and content synchronization | Productivity · Sync |
+| 📱 **[AndroidDrop](https://androiddrop.com/)** | Nearby-device discovery and file-transfer experience | Android · Connectivity |
+| 🔗 **[ShortURL7](https://shorturl7.com/)** | Short links, custom aliases, and link-management analytics | Web Tools · Analytics |
+| ⚡ **[MySpeedCheck](https://myspeedcheck.in/)** | Interactive internet speed testing and visual feedback | Network Tools · UX |
+| 🖼️ **[Online Image Editor Free](https://onlineimageeditorfree.com/)** | Accessible browser-based image editing | Creative Tools · Web |
+| 🧾 **ERP & Business Automation** | Operational software for accounting, inventory, reporting, and workflows | ERP · MySQL · PHP |
+
+<details>
+<summary><b>🔬 What I'm exploring next</b></summary>
+
+- AI-assisted development and workflow automation
+- Local-network keyboard and mouse sharing
+- Cross-device productivity and synchronization
+- Practical cybersecurity and software architecture
+- SEO, answer-engine optimization, and useful web tools
+
+</details>
+
+## 🏢 Beyond software: real-world business experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 CR Industries
+
+Rice milling and agricultural operations.
+
+My experience here informs how I think about inventory, financial workflows, operational reliability, and the realities of running a business.
+
+</td>
+<td width="50%" valign="top">
+
+### ❄️ Kisan Cold Storage
+
+Cold-storage operations in **Shahabad, Hardoi, Uttar Pradesh**.
+
+Approximate facility capacity: **150,000 bags**. The business offers a firsthand perspective on agricultural logistics, stock tracking, and operational processes.
+
+</td>
+</tr>
+</table>
+
+### 🌱 From farm to framework
+
+**The interesting connection:** I don't only develop software for business use cases — I also work with businesses that face those use cases every day. That perspective shapes the products I choose to build.
+
+## 🛠️ Technologies I work with
+
+**Languages & frontend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend, mobile & data**
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+
+**Tools & infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+<details>
+<summary><b>📚 Additional technologies featured in my previous profile</b></summary>
+
+My earlier README also listed C++, Azure, Google Cloud, React, Vue, Flutter, Laravel, Node.js, Express, FastAPI, MongoDB, PostgreSQL alternatives, and other frameworks and tools. I have intentionally kept the main badges focused on the technologies most representative of my current work rather than claiming equal proficiency in every listed technology.
+
+</details>
+
+## ⚡ A few facts about me
+
+- 💻 I move between **code, product design, and business operations**.
+- 🌾 Working in agriculture gives me a different perspective on digital transformation.
+- 📲 I enjoy building experiences that work across web and mobile.
+- ⚖️ My education combines **computer science and law**.
+- 🔧 I care about the less glamorous parts of software too: accounting accuracy, access control, reliability, and performance.
+- 🌍 I want to build practical tools that can be useful far beyond my local market.
+
+## 📊 GitHub activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngdev3&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngdev3&layout=compact&hide_border=true&theme=transparent)
+
+![GitHub streak](https://streak-stats.demolab.com?user=ngdev3&theme=transparent&hide_border=true)
+
+</div>
+
+<sub>Note: Third-party stats cards may occasionally be unavailable, and private repository activity may not be fully reflected.</sub>
+
+## 🤝 Connect & collaborate
+
+I'm interested in practical software products, developer tools, business automation, and thoughtful technical collaborations.
+
+[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-111827?style=for-the-badge&logo=github)](https://github.com/ngdev3)
+[![YouTube](https://img.shields.io/badge/Technical_Library-DC2626?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuyo4pIrsggDjunLhwnMyMw)
+[![Website](https://img.shields.io/badge/Daily_Cash_Entry-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dailycashentry.com/)
+
+<!-- Add verified LinkedIn, email, and other social URLs here when ready. -->
+
+---
+
+<div align="center">
+
+### Build with purpose. Solve with curiosity. Keep shipping. 🚀
+
+*Thanks for stopping by!*
+
+</div>
